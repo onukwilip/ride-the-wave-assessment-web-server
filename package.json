@@ -1,0 +1,31 @@
+{
+  "name": "ride-the-wave-project-swb-server",
+  "version": "1.0.0",
+  "description": "The web server responsible for retrieving Facebook groups within a specific location",
+  "main": "/dev/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./dev/index.js"
+  },
+  "author": "Prince Onukwili",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^1.1.3",
+    "@googlemaps/google-maps-services-js": "^3.3.42",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/cors": "^2.8.17",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.21",
+    "@types/google__maps": "^0.5.20",
+    "@types/node": "^20.12.2",
+    "nodemon": "^3.1.0"
+  }
+}

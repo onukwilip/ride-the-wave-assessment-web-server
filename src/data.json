@@ -1,0 +1,485 @@
+{
+  "communities": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.575044,
+          "lng": 3.2581633
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.576464479892723,
+            "lng": 3.259461479892723
+          },
+          "southwest": {
+            "lat": 6.57376482010728,
+            "lng": 3.256761820107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+      "icon_background_color": "#F88181",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+      "name": "Ogbomoshotedo Community Health Cetre",
+      "place_id": "ChIJJycc2qmaOxARnmTha0-eLUw",
+      "rating": 0,
+      "reference": "ChIJJycc2qmaOxARnmTha0-eLUw",
+      "scope": "GOOGLE",
+      "types": ["hospital", "health", "point_of_interest", "establishment"],
+      "user_ratings_total": 0,
+      "vicinity": "H7G5+277, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.5812835,
+          "lng": 3.2762398
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.582816429892722,
+            "lng": 3.277687979892722
+          },
+          "southwest": {
+            "lat": 6.580116770107278,
+            "lng": 3.274988320107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Community Primary School, Isheri Olofin Lagos",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJiUyZ-RaQOxARP6ADPmoeD2M",
+      "rating": 3,
+      "reference": "ChIJiUyZ-RaQOxARP6ADPmoeD2M",
+      "scope": "GOOGLE",
+      "types": ["school", "point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "H7JG+FFX, Pipeline Rd, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.6021288,
+          "lng": 3.2824596
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.603474429892723,
+            "lng": 3.283776579892722
+          },
+          "southwest": {
+            "lat": 6.600774770107279,
+            "lng": 3.281076920107277
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Community Central Mosque, 5th Avenue",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116800160818542151473\">Mojeed Alabi</a>"
+          ],
+          "photo_reference": "ATplDJZCquu39S3SE3tF7xJ-JU6W4yFigoI9W_I_9w2D_9x9S1a2o-xFNOt-3KMOs6laHVmqHJlV4RXzJuRWe1loBTPKgSEBcY7UUxd1CU3rnoJ_-CNuyJ9yfy-US1RNHOtlP4tLsbYcF50yafaGrtsGLdKwCb_sCQvn-3B2qoVPELsq0UE1",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJV5ZYilyQOxARQ7lIFiCdi1U",
+      "plus_code": {
+        "compound_code": "J72J+VX Lagos",
+        "global_code": "6FR5J72J+VX"
+      },
+      "rating": 4.5,
+      "reference": "ChIJV5ZYilyQOxARQ7lIFiCdi1U",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "52 Road D Close, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.602002799999999,
+          "lng": 3.2803266
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.60339147989272,
+            "lng": 3.281675629892723
+          },
+          "southwest": {
+            "lat": 6.600691820107277,
+            "lng": 3.278975970107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+      "name": "Estate Community Bank",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJTeNXq12QOxARrIwaP1N3pVE",
+      "plus_code": {
+        "compound_code": "J72J+Q4 Lagos",
+        "global_code": "6FR5J72J+Q4"
+      },
+      "rating": 5,
+      "reference": "ChIJTeNXq12QOxARrIwaP1N3pVE",
+      "scope": "GOOGLE",
+      "types": ["bank", "finance", "point_of_interest", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "5 3rd Avenue, 311 Rd, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.5478119,
+          "lng": 3.267238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.549091629892722,
+            "lng": 3.268650129892722
+          },
+          "southwest": {
+            "lat": 6.546391970107278,
+            "lng": 3.265950470107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Top-ultimate connection",
+      "place_id": "ChIJq48gLqCPOxARo25OXfKdIrc",
+      "plus_code": {
+        "compound_code": "G7X8+4V Lagos",
+        "global_code": "6FR5G7X8+4V"
+      },
+      "rating": 5,
+      "reference": "ChIJq48gLqCPOxARo25OXfKdIrc",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 1,
+      "vicinity": "6 Ijegun - Ikotun Rd, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.5510858,
+          "lng": 3.2684032
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.552416079892723,
+            "lng": 3.269828429892722
+          },
+          "southwest": {
+            "lat": 6.549716420107279,
+            "lng": 3.267128770107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Community Prints",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJf9ayB_KPOxARbTbspRJJxK4",
+      "plus_code": {
+        "compound_code": "H729+C9 Lagos",
+        "global_code": "6FR5H729+C9"
+      },
+      "rating": 0,
+      "reference": "ChIJf9ayB_KPOxARbTbspRJJxK4",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "store", "establishment"],
+      "user_ratings_total": 0,
+      "vicinity": "Ikotun, Idimu, 35 Idimu Rd, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.553284499999999,
+          "lng": 3.2701609
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.554706729892721,
+            "lng": 3.271528929892722
+          },
+          "southwest": {
+            "lat": 6.552007070107277,
+            "lng": 3.268829270107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name": "Community Senior Grammar School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJLQcJQ-6POxARh2uLeHyzJjI",
+      "rating": 0,
+      "reference": "ChIJLQcJQ-6POxARh2uLeHyzJjI",
+      "scope": "GOOGLE",
+      "types": ["school", "point_of_interest", "establishment"],
+      "user_ratings_total": 0,
+      "vicinity": "H73C+837, Idimu Rd, Ikotun"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.589084499999999,
+          "lng": 3.2632466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.590391279892723,
+            "lng": 3.264616479892722
+          },
+          "southwest": {
+            "lat": 6.587691620107279,
+            "lng": 3.261916820107277
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "IMOSOKAN AYETORO CDA",
+      "place_id": "ChIJwQkSi96ROxARpCWvaeesCtg",
+      "plus_code": {
+        "compound_code": "H7Q7+M7 Lagos",
+        "global_code": "6FR5H7Q7+M7"
+      },
+      "rating": 0,
+      "reference": "ChIJwQkSi96ROxARpCWvaeesCtg",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 0,
+      "vicinity": "7, Road 5 Imosokan Estate Ayetoro, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.570225,
+          "lng": 3.248258
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.571533329892722,
+            "lng": 3.249587179892722
+          },
+          "southwest": {
+            "lat": 6.568833670107278,
+            "lng": 3.246887520107277
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+      "name": "Igando New Town Community Central Mosque",
+      "place_id": "ChIJw9kigrKaOxARFmS03IcvJ7M",
+      "rating": 3.3,
+      "reference": "ChIJw9kigrKaOxARFmS03IcvJ7M",
+      "scope": "GOOGLE",
+      "types": [
+        "mosque",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "H6CX+38J, Adesolarin St, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.5672399,
+          "lng": 3.2682056
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.568651329892722,
+            "lng": 3.269571479892722
+          },
+          "southwest": {
+            "lat": 6.565951670107278,
+            "lng": 3.266871820107277
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Valor Community Enlightenment Initiative",
+      "place_id": "ChIJ8WGzU_2POxARLHaUEiupc88",
+      "plus_code": {
+        "compound_code": "H789+V7 Lagos",
+        "global_code": "6FR5H789+V7"
+      },
+      "rating": 1.7,
+      "reference": "ChIJ8WGzU_2POxARLHaUEiupc88",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 3,
+      "vicinity": "5 & 7 Ayo Ajilore Street, By Alake Bus-Stop, Idimu, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.553449899999999,
+          "lng": 3.2648769
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.554783479892722,
+            "lng": 3.266222079892722
+          },
+          "southwest": {
+            "lat": 6.552083820107279,
+            "lng": 3.263522420107277
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "RC Ikotun Community",
+      "place_id": "ChIJM06-FvGPOxARHW_2Upbskts",
+      "rating": 0,
+      "reference": "ChIJM06-FvGPOxARHW_2Upbskts",
+      "scope": "GOOGLE",
+      "types": ["point_of_interest", "establishment"],
+      "user_ratings_total": 0,
+      "vicinity": "H737+CX2 Ajiroba Hall, Ijegun - Ikotun Rd, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.600202299999999,
+          "lng": 3.2845096
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.601619629892721,
+            "lng": 3.285856529892722
+          },
+          "southwest": {
+            "lat": 6.598919970107277,
+            "lng": 3.283156870107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "name": "Living Spring Community Church",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109298356803391301352\">A Google User</a>"
+          ],
+          "photo_reference": "ATplDJZt0AF7kYd6TKS5TROGcQxcs3XL7iO1pipa6DjDqay6HabyMmpySYRYLvWaflf7tk4l8gCTVUKPAVjV6j-IkwWjUNrxUtPX8psikxmhiA3vKWFVCTiALILlA6o6r6S2XLcWKz_FrEH3ifItvgzssCTsphojAjteIrHJnNbPyD43jiuM",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJ58dYW1uQOxARO2axkrcMhpY",
+      "plus_code": {
+        "compound_code": "J72M+3R Lagos",
+        "global_code": "6FR5J72M+3R"
+      },
+      "rating": 4.7,
+      "reference": "ChIJ58dYW1uQOxARO2axkrcMhpY",
+      "scope": "GOOGLE",
+      "types": [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "5th Avenue Gowon Estate, opposite Tango Bar, Egbeda, Lagos"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 6.6026896,
+          "lng": 3.2390553
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 6.604012679892721,
+            "lng": 3.240391079892722
+          },
+          "southwest": {
+            "lat": 6.601313020107277,
+            "lng": 3.237691420107278
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+      "name": "Ayobo Community Town Hall",
+      "photos": [
+        {
+          "height": 1350,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101275113589221951786\">A Google User</a>"
+          ],
+          "photo_reference": "ATplDJYNsmAWfCeaRFIIKpM7aG1sgHzKuO3yc9CBg8V5_z5169BHyX0XVraPjhGwNHxdzdCdD1b_fKIXgioTEjbb67Xr1wPUMLSi3wrJH4CDtcNI1j-4yymz_JlDXEai9eYcT03XCTeKgRC7v_x6tPuHeRl34jrLNG-a29ZenCd74uI2ji7Q",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJjXL62IyaOxARg69Kcjm095g",
+      "rating": 3.7,
+      "reference": "ChIJjXL62IyaOxARg69Kcjm095g",
+      "scope": "GOOGLE",
+      "types": [
+        "city_hall",
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "J63Q+3JM, Baale St, Lagos"
+    }
+  ]
+}
