@@ -5,3 +5,7 @@ export class ErrorClass extends Error {
     this.status = status;
   }
 }
+
+export class GetGroupsResponseClass {
+  constructor(public places: any[], public groups: any[]) {}
+}

@@ -21,7 +21,9 @@ app.use(urlencoded({ extended: true }));
 app.use("/v1/groups", groups_routes);
 
 app.use((err: any, req: Request, res: Response, next: NextFunction) => {
-  res.status(err.status || 500).json({ message: err.message || err });
+  res
+    .status(err.status || 500)
+    .json({ message: err.message?.toString() || err });
   next();
 });
 
