@@ -5,7 +5,8 @@
   "main": "/dev/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./dev/index.js"
+    "start": "nodemon ./dev/index.js",
+    "build": "npx tsc --build"
   },
   "author": "Prince Onukwili",
   "license": "ISC",
