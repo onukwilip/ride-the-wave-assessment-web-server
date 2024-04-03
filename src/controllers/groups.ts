@@ -1,7 +1,7 @@
 import { NextFunction, Request, Response } from "express";
 import google_maps_api from "@google/maps";
 import { Client, PlaceInputType } from "@googlemaps/google-maps-services-js";
-import { ErrorClass } from "../utils";
+import { ErrorClass, GetGroupsResponseClass } from "../utils";
 import { config } from "dotenv";
 import axios, { AxiosResponse } from "axios";
 import { communities } from "../data.json";
@@ -95,9 +95,9 @@ export const get_fb_groups = async (
     // * If the response from the nearby places API is a valid object/array
     if (typeof places_response.data.results === "object") {
       const {
-        data: { results },
+        data: { results: places },
       } = places_response;
-      res.status(200).json(results);
+      res.status(200).json(new GetGroupsResponseClass(places, []));
       next();
     } else
       throw new ErrorClass(
